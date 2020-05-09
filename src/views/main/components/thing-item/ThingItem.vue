@@ -3,6 +3,7 @@
         {{thing.title}}
         {{thing.title}}
         {{thing.title}}
+        <v-btn>pppppp</v-btn>   
         
     </div>
 </template>
